@@ -5,7 +5,7 @@ Este repositorio fue creado como práctica de clase.
 
 ## Integrante
 
-- Nicolas Mora Uchubo
+- Nicolas Gomez
 
 ## Comandos aprendidos
 
