@@ -1,6 +1,6 @@
 Mi primera práctica con Git y GitHub.
 
-Nombre:Nicolas Mora 
+Nombre:Nicolas Gomez
 Curso:Cuarto Semestre
 Fecha:20/05/2026
 
